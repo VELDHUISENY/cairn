@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="3SEoJDtGODvaOcSKggWj">
+    <mxGraphModel dx="2054" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pqqjpNdx1YVnJnPvwWF_-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="670" width="710" x="70" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pqqjpNdx1YVnJnPvwWF_-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Project Cairn" vertex="1">
+          <mxGeometry height="60" width="710" x="70" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pqqjpNdx1YVnJnPvwWF_-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cinema&lt;br&gt;[description]" vertex="1">
+          <mxGeometry height="135" width="270" x="440" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pqqjpNdx1YVnJnPvwWF_-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Coursework&lt;br&gt;[description]" vertex="1">
+          <mxGeometry height="135" width="270" x="140" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pqqjpNdx1YVnJnPvwWF_-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=light-dark(#FFFFFF,#7A7A7A);" value="Observatory&lt;br&gt;[description]" vertex="1">
+          <mxGeometry height="135" width="270" x="440" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="pqqjpNdx1YVnJnPvwWF_-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=light-dark(#000000,#7A7A7A);" value="History&lt;br&gt;[description]" vertex="1">
+          <mxGeometry height="135" width="270" x="140" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="pqqjpNdx1YVnJnPvwWF_-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#7A7A7A);fillStyle=hatch;" value="Journal&lt;br&gt;[description]" vertex="1">
+          <mxGeometry height="135" width="570" x="140" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="pqqjpNdx1YVnJnPvwWF_-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Version 0.1" vertex="1">
+          <mxGeometry height="60" width="710" x="70" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="pqqjpNdx1YVnJnPvwWF_-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillStyle=hatch;fillColor=light-dark(#FFFFFF,#7A7A7A);" value="" vertex="1">
+          <mxGeometry height="30" width="40" x="510" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="pqqjpNdx1YVnJnPvwWF_-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;dashed = coming soon, not clickable&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="560" y="800" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
